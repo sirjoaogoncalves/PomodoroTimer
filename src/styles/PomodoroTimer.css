@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.timer {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  width: 50px;
+  padding: 5px;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+.button-group button {
+  margin-right: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.button-group button:last-child {
+  margin-right: 0;
+}
+
